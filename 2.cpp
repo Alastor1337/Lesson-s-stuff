@@ -7,7 +7,7 @@ using namespace std;
 int main()
 {
 	const int SIZE = 100001;
-	int array[SIZE]{0};
+	int array[SIZE]={0};
 	int n;
 	int t;
 	
@@ -19,7 +19,7 @@ int main()
 		array[t]++;
 	}
 	
-	for (int i = 0;i<=n;i++)
+	for (int i = 0;i<SIZE;i++)
 	{
 		for (int j = 0;j < array[i];j++)
 		{
