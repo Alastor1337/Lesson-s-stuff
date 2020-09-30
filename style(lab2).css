@@ -1,0 +1,66 @@
+.class_header{
+	background-color: #1C75FC;
+	width: 980px;
+	height: 189px;
+}
+
+.class_headersection{ /* доделать синюю хрень сверху*/
+	background-color: white;
+	margin-top: 4px;
+	width: 980px;
+	height: 125px;
+}
+
+.class_main{
+	background-color: green;
+	width: 980px;
+}
+
+.class_bigh{
+	background-color: black;
+	text-align: center;
+	height: 400px;
+	width: 300px;
+	margin-left: 10px;
+	margin-top: 40px;
+}
+.class_bigp{
+	width: 660px;
+	height: 400px;
+	margin-right: 40px;
+	background-color: black;
+}
+
+h2.logo{
+	font-size: 64px;
+	text-align: left;
+	margin: auto;
+	padding-top: 20px;
+	padding-left: 20px;
+}
+
+h3.menu,.homepage{
+	font-size: 16px;
+	padding-left: 15px;
+	padding-top: 35px;
+	float: left;
+}
+
+h3.menu{
+	color: white;
+}
+h3.homepage{
+	color: grey;
+}
+
+h2.ots{
+	margin: auto;
+	text-align: center;
+	color: green;
+}
+
+h2.hts{
+	color: #1C75FC;
+	font-size: 4px;
+	margin:auto;
+}
